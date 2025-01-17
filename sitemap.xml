@@ -2,12 +2,22 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/tawse-winery-tawse-growers-blend-cabernet-franc/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/ux221-week-2/
+            http://localhost:8000/tawse-winery-tawse-redfoot-vineyard-gamay-noir-2015/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tawse-winery-growers-blend-pinot-noir/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/wordpress-database/
         </loc>
     </url>
     <url>
